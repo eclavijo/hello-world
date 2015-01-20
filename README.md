@@ -1,4 +1,2 @@
-# hello-world
-Primer proyecto GitTest
-Readme Editado!
-Editado DENUEVO!
+se borra todo
+
